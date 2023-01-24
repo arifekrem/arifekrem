@@ -1,5 +1,7 @@
 ### Hi there, its Ekrem 👋
-[Linkedin](https://www.linkedin.com/in/ekrem-yilmaz-110940219/)
+🔗[Linkedin](https://www.linkedin.com/in/ekrem-yilmaz-110940219/)
+[Instagram](https://www.instagram.com/by_aekrem/)
+
 <!--
 **arifekrem/arifekrem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

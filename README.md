@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏻
 
 - I am [Ekrem Yilmaz](https://www.linkedin.com/in/ekrem-yilmaz-110940219/).
   * 📸 [Instagram](https://www.instagram.com/by_aekrem/)

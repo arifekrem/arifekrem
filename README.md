@@ -11,6 +11,6 @@
 
   | Repository Name | Description  |
   | ------ | ------ |
-  | [Python](https://github.com/arifekrem/Python) | My Python projects (mostly from high school) |
-  | [Java](https://github.com/arifekrem/Java) | My Java projects (and labs from CPS 209 course) |
+  | 🐍 [Python](https://github.com/arifekrem/Python) | My Python projects (mostly from high school) |
+  | ☕️ [Java](https://github.com/arifekrem/Java) | My Java projects (and labs from CPS 209 course) |
  

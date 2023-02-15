@@ -13,5 +13,5 @@
   | ------ | ------ |
   | 🐍 [Python](https://github.com/arifekrem/Python) | My Python projects |
   | ☕️ [Java](https://github.com/arifekrem/Java) | My Java projects |
-  | 📚 [Labs](https://github.com/arifekrem/Labs) | My university labs |
+  | 📚 [Labs](https://github.com/arifekrem/Labs) | My university labs (Python & Java & Common Lisp)|
  

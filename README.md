@@ -2,6 +2,7 @@
 
 - I am [Ekrem Yilmaz](https://www.linkedin.com/in/ekrem-yilmaz-110940219/).
   * 📸 [Instagram](https://www.instagram.com/by_aekrem/)
+  * ✉️ [Email] (arifekremwork@gmail.com)
 
 - Brief intro about me:
   * I'm a 2nd year Computer Science student @ Toronto Metropolitan University.

@@ -1,7 +1,7 @@
 ### Hi there 👋🏻
 
-- I am [Ekrem Yilmaz](https://www.linkedin.com/in/ekrem-yilmaz-110940219/).
-  * 📸 [Instagram](https://www.instagram.com/by_aekrem/)
+- I am [Ekrem Yilmaz](https://www.instagram.com/by_aekrem/).
+  * 📸 [LinkedIn](https://www.linkedin.com/in/ekrem-yilmaz-110940219/)
   * ✉️ arifekremwork@gmail.com
 
 - Brief intro about me:

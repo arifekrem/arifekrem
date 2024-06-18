@@ -12,8 +12,9 @@
 
   | Repository Name | Description  |
   | ------ | ------ |
-  | 🐍 [Python](https://github.com/arifekrem/Python) | My Python projects |
-  | ☕️ [Java](https://github.com/arifekrem/Java) | My Java projects |
+  | 🐍 [Python](https://github.com/arifekrem/Python) | My Python Projects |
+  | ☕️ [Java](https://github.com/arifekrem/Java) | My Java Projects |
   | 📚 [Labs](https://github.com/arifekrem/Labs) | My university labs (Python & Java & HTML & ...)|
   | 🐍🛡️ [Python_HTML_Banking_System](https://github.com/arifekrem/Python_HTML_Banking_System/tree/main) | My Python&HTML Banking System project |
   | ⚛ [TMU Marketplace](https://github.com/arifekrem/TMU_Marketplace_Django_React) | My Django&React Marketplace Group Project |
+  | 🐍 [TMU_CS_ClassList](https://github.com/arifekrem/TMU_CS_ClassList?tab=readme-ov-file) | My HTML&CSS&JS Class List Group Project |

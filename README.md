@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
 
-- I am [Ekrem Yilmaz](https://www.instagram.com/by_aekrem/).
+- I am [Ekrem Yilmaz](https://www.ekremyilmaz.com/).
   * 🧑🏻‍💼 [LinkedIn](https://www.linkedin.com/in/ekrem-yilmaz/)
   * ✉️ arifekremwork@gmail.com
 

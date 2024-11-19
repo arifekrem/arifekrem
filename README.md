@@ -19,4 +19,4 @@
   | ⚛ [TMU Marketplace](https://github.com/arifekrem/TMU_Marketplace_Django_React) | My Django&React Marketplace Group Project |
   | 🐍 [TMU_CS_ClassList](https://github.com/arifekrem/TMU_CS_ClassList?tab=readme-ov-file) | My HTML&CSS&JS Class List Group Project |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifekrem&layout=compact)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifekrem&layout=compact)

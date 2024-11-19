@@ -5,7 +5,7 @@
   * ✉️ arifekremwork@gmail.com
 
 - Brief intro about me:
-  * I'm a 3rd year Computer Science student @ Toronto Metropolitan University.
+  * I'm a 4th year Computer Science student @ Toronto Metropolitan University.
   * I love automation, coding, problem-solving and learning new skills and implement them to solve different challenges.
     
 - Below are the repositories that I used throughout my CS journey while learning different languages such as `Python`, `Java`.
